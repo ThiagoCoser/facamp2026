@@ -23,16 +23,15 @@ Cursos oferecidos primeiro semestre 2026
 <details>
 <summary><strong> 🖥️ Computação Gráfica III</strong></summary>
 
-- [Plano de Ensino]()
-- [Aula 1] ()
+- [Aula 1](https://docs.google.com/presentation/d/1Tt0gQQ-2x47RXevpZRyEhN099sxAm7k6/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 
 </details>
 
 <details>
 <summary><strong> 🚀 - Projeto Integrado </strong></summary>
 
-- [Plano de Ensino]()
-- [Aula 1] ()
+- [Plano de Ensino](https://docs.google.com/document/d/1NagfpVXDmRkRUXgCczGONsJDbpQ-6fdZlwsNqyh4l-o/edit?usp=sharing)
+- [Aula 1](https://docs.google.com/presentation/d/1umKtgVl_VP0qsrTYbA6rlWq0oZuse4YVLheEh-bKaBU/edit?usp=sharing)
 
 </details>
 
