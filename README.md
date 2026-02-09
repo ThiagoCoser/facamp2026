@@ -11,8 +11,6 @@ Cursos oferecidos primeiro semestre 2026
 # Cursos e materiais
 
 - Game Design I
-
 - Computação Gráfica III
-
 - Projeto Integrado
 - Trabalho de conclusão de Curso
