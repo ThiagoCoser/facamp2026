@@ -28,7 +28,7 @@ Cursos oferecidos primeiro semestre 2026
 </details>
 
 <details>
-<summary><strong> 🚀 - Projeto Integrado </strong></summary>
+<summary><strong> 🚀 Projeto Integrado </strong></summary>
 
 - [Plano de Ensino](https://docs.google.com/document/d/1NagfpVXDmRkRUXgCczGONsJDbpQ-6fdZlwsNqyh4l-o/edit?usp=sharing)
 - [Aula 1](https://docs.google.com/presentation/d/1umKtgVl_VP0qsrTYbA6rlWq0oZuse4YVLheEh-bKaBU/edit?usp=sharing)
