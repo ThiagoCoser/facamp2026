@@ -10,11 +10,15 @@ Cursos oferecidos primeiro semestre 2026
 
 # Cursos e materiais
 
-- **Game Design I**
-  - [Plano de Ensino](https://docs.google.com/document/d/1Ej3ZlBdoeswEYHhKJ8mI9qPdo0kKQ-kAXxLdlONuoIw/edit?usp=sharing)
-  - Conteúdos
-    - Introdução ao Game Design
-    - Mecânicas e Dinâmicas
+<details>
+<summary><strong>🎮 Game Design I</strong></summary>
+
+- [Plano de Ensino](https://docs.google.com/document/d/1Ej3ZlBdoeswEYHhKJ8mI9qPdo0kKQ-kAXxLdlONuoIw/edit?usp=sharing)
+- Unidade 1: Fundamentos
+- Unidade 2: Mecânicas
+- Unidade 3: Prototipagem
+
+</details>
 
 - Computação Gráfica III
 - Projeto Integrado
