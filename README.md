@@ -12,7 +12,7 @@ Cursos oferecidos primeiro semestre 2026
 
 - Game Design I
 
-    - [Plano de Ensino](Docs/salas.pdf)https://docs.google.com/document/d/1Ej3ZlBdoeswEYHhKJ8mI9qPdo0kKQ-kAXxLdlONuoIw/edit?usp=sharing)
+    - [Plano de Ensino](https://docs.google.com/document/d/1Ej3ZlBdoeswEYHhKJ8mI9qPdo0kKQ-kAXxLdlONuoIw/edit?usp=sharing)
 
 - Computação Gráfica III
 - Projeto Integrado
