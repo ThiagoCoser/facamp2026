@@ -3,7 +3,6 @@
 Cursos oferecidos primeiro semestre 2026
 
 
-[Calendário Acadêmico](Documents/calendar.pdf)
+[Calendário Acadêmico](Docs/calendar.pdf)
 
-
-[Computação gráfica](Aulas/computerGraphics.md)
+[Salas e horários](Docs/salas.md)
