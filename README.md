@@ -24,6 +24,7 @@ Cursos oferecidos primeiro semestre 2026
 <summary><strong> 🖥️ Computação Gráfica III</strong></summary>
 
 - [Aula 1](https://docs.google.com/presentation/d/1Tt0gQQ-2x47RXevpZRyEhN099sxAm7k6/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
+- [Exercicio 1](https://drive.google.com/drive/folders/14Njb4vE7Mku3qszD-lG4RpmOD7z5TBQL?usp=sharing)
 
 </details>
 
