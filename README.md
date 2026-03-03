@@ -28,7 +28,7 @@ Cursos oferecidos primeiro semestre 2026
 
 - [Arquivos de exercícios](https://drive.google.com/drive/folders/14Njb4vE7Mku3qszD-lG4RpmOD7z5TBQL?usp=sharing)
 
-- [Arquivos de exercícios](https://drive.google.com/drive/folders/1X_1y1IGzNkMtX8z5S5TyI0s9nhupLubI?usp=sharing)
+- [Entrega colagem](https://drive.google.com/drive/folders/1X_1y1IGzNkMtX8z5S5TyI0s9nhupLubI?usp=sharing)
 
 
 
