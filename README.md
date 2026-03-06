@@ -40,6 +40,10 @@ Cursos oferecidos primeiro semestre 2026
 - [Plano de Ensino](https://docs.google.com/document/d/1NagfpVXDmRkRUXgCczGONsJDbpQ-6fdZlwsNqyh4l-o/edit?usp=sharing)
 - [Aula 1](https://docs.google.com/presentation/d/1umKtgVl_VP0qsrTYbA6rlWq0oZuse4YVLheEh-bKaBU/edit?usp=sharing)
 
+- [Aula 2](https://docs.google.com/presentation/d/1ocpYLkBCBYYi6N9oKAQFCSQ1Y9dCoXZK5q33RVtJPRI/edit?usp=sharing)
+
+
+
 </details>
 
 
