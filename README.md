@@ -33,7 +33,7 @@ Cursos oferecidos primeiro semestre 2026
 
 - [Entrega colagem](https://drive.google.com/drive/folders/1X_1y1IGzNkMtX8z5S5TyI0s9nhupLubI?usp=sharing)
 
-
+- [Painel Semântico](https://drive.google.com/drive/folders/13nr1npQjn2FuqYN74PVzsVgBO5KX3Fb6?usp=sharing)
 
 </details>
 
