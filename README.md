@@ -21,6 +21,7 @@ Cursos oferecidos primeiro semestre 2026
 - [Entrega exercício 1 - Jogo da Velha](https://drive.google.com/drive/folders/1EhIARSvxkntL9ihqRut1Yz3M6K2NdcK7?usp=sharing)
 
 - [Manual - Template](https://docs.google.com/document/d/1q3CDFX4TNP75CBLcMyE18W8PYxlP2MBINfT9FmIbHEY/edit?usp=sharing)
+- [Lista Board Games do professor](https://docs.google.com/spreadsheets/d/1wUr0ELzMgoUvhiQ_cztNodDYkq7xeBUA8lInt2yyLb4/edit?usp=sharing)
 
 </details>
 
