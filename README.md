@@ -16,6 +16,9 @@ Cursos oferecidos primeiro semestre 2026
 
 - [Plano de Ensino](https://docs.google.com/document/d/1Ej3ZlBdoeswEYHhKJ8mI9qPdo0kKQ-kAXxLdlONuoIw/edit?usp=sharing)
 - [Aula 1](https://docs.google.com/presentation/d/1YWBRAVrEvBC_VvxOUP5WXAt0n0SQ_D3v/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
+- [Aula2](https://docs.google.com/presentation/d/1E5YOzR3v9Yzf2uLxxlACZVffIDg1neuc/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
+- [Entrega exercício do Jogo da Velha](https://drive.google.com/drive/folders/1EhIARSvxkntL9ihqRut1Yz3M6K2NdcK7?usp=sharing)
+- [Exercício 3](https://docs.google.com/document/d/1o0WMbtIfWVC4-i5mpw9u1Gbh4dcNBy9ArXB2E5dnaiA/edit?usp=sharing)
 - [Manual - Template](https://docs.google.com/document/d/1q3CDFX4TNP75CBLcMyE18W8PYxlP2MBINfT9FmIbHEY/edit?usp=sharing)
 
 </details>
