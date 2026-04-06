@@ -32,6 +32,7 @@ Cursos oferecidos primeiro semestre 2026
 - [Aula 2](https://docs.google.com/presentation/d/1Tmug9y4d9fHFUGcWs8L6nas273CthUx7/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 - [Aula 3 - Motion](https://docs.google.com/presentation/d/1648P26ovtZ8IzcKLD8s0EygOnmh2SHUz/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 
+- [Exercício 1 - 2º Bimestre](https://docs.google.com/presentation/d/136GmJgudwCwY5P0u5Vgyq9LpozvFcFt6/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 
 
 - [Arquivos de exercícios](https://drive.google.com/drive/folders/14Njb4vE7Mku3qszD-lG4RpmOD7z5TBQL?usp=sharing)
