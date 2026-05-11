@@ -34,6 +34,9 @@ Cursos oferecidos primeiro semestre 2026
 
 - [Aula 3D](https://docs.google.com/presentation/d/1dDiZoaEUIz13RFhBkiMIjGQtlhrf5i6t/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 
+-[Projeto Integrador](https://docs.google.com/presentation/d/1SclOTJ5FiC1xVOgAQ_iVbCsWEuLTMGQ3/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
+
+
 - [Arquivos de exercícios](https://drive.google.com/drive/folders/14Njb4vE7Mku3qszD-lG4RpmOD7z5TBQL?usp=sharing)
 
 - [Exercício 1 - 2º Bimestre](https://docs.google.com/presentation/d/136GmJgudwCwY5P0u5Vgyq9LpozvFcFt6/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
